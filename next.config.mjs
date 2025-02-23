@@ -5,7 +5,8 @@ const nextConfig = {
     unoptimized: true,
   },
   basePath: '/primerizos-padre',
-  assetPrefix: '/primerizos-padre/'
+  assetPrefix: '/primerizos-padre/',
 };
 
-module.exports = nextConfig;
+export default nextConfig;
+
