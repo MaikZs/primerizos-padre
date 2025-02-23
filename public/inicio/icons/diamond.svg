@@ -1,0 +1,10 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo del diamante -->
+  <polygon points="100,20 180,100 100,180 20,100" fill="#FF6FB0"/>
+  
+  <!-- Detalles internos del diamante -->
+  <polygon points="100,40 140,100 100,160 60,100" fill="#FF8FC0"/>
+  
+  <!-- Brillo en la parte superior -->
+  <polygon points="100,30 120,70 100,90 80,70" fill="white" opacity="0.5"/>
+</svg>
